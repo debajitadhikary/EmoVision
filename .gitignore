@@ -1,0 +1,57 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environment
+src/data
+venv/
+env/
+ENV/
+.venv/
+.pyenv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# TensorFlow / Keras Saved Models
+saved_model/
+*.h5
+*.pb
+
+# Logs and checkpoints
+logs/
+events.out.tfevents.*
+checkpoint
+*.ckpt
+*.ckpt.*
+
+# TensorBoard log files
+tensorboard/
+
+# Python package build artifacts
+build/
+dist/
+*.egg-info/
+
+# MacOS
+.DS_Store
+
+# IDE specific files (optional)
+.vscode/
+.idea/
+*.swp
+
+# Pipenv
+Pipfile.lock
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Docker
+*.pid
+
