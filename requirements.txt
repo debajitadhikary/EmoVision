@@ -1,0 +1,5 @@
+numpy>=1.23.5
+opencv-python>=4.10.0
+tensorflow == 2.10
+# matplotlib==3.5.0
+# pip install scipy==1.7.3
