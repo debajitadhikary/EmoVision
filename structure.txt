@@ -1,0 +1,55 @@
+ccx/
+├── __cnf_backups
+|		├── dependencies.txt
+|	    ├── history.json
+|
+├── __user_guides
+|       ├── cuDNN-Developer-Guide.pdf
+|       ├── NsightCompute.pdf
+|
+├── src
+        ├── data
+		├── test
+		├── train
+        ├── dataset_prepare.py
+        ├── emotions.py
+        ├── evaluate_model.py
+        ├── harrcascade_frontalface_default.xml
+        ├── model.h5
+        ├── plot.png
+├── venv
+├── requirements.txt
+├── structure.txt
+├── README.md 
+├── .gitignore
+├── LICENSE
+
+
+
+├───src
+│   └───data
+│       ├───test
+│       │   ├───angry
+│       │   ├───disgust
+│       │   ├───fear
+│       │   ├───happy
+│       │   ├───neutral
+│       │   ├───sad
+│       │   └───surprise
+│       └───train
+│           ├───angry
+│           ├───disgust
+│           ├───fear
+│           ├───happy
+│           ├───neutral
+│           ├───sad
+│           └───surprise
+
+
+│   ├───Scripts
+│   └───share
+│       └───man
+│           └───man1
+├───z_hpfx
+├───__cnf_backups
+└───__user_guides
