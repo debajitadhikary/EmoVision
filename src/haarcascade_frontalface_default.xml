@@ -1,16 +1,6 @@
 <?xml version="1.0"?>
 <!--
     Stump-based 24x24 discrete(?) adaboost frontal face detector.
-    Created by Rainer Lienhart.
-
-////////////////////////////////////////////////////////////////////////////////////////
-
-  IMPORTANT: READ BEFORE DOWNLOADING, COPYING, INSTALLING OR USING.
-
-  By downloading, copying, installing or using the software you agree to this license.
-  If you do not agree to this license, do not download, install,
-  copy or use the software.
-
 
                         Intel License Agreement
                 For Open Source Computer Vision Library
